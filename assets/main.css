@@ -3,22 +3,26 @@ body {
 }
 
 h1 {
+  margin: 20px;
+  padding: 5px;
   color: sienna;
   text-indent: 20px
 }
 
 h2 {
   color: sienna;
-  margin: 20px;
+  margin: 15px;
+  padding: 3px;
+  text-indent: 30px;
   font-family: geneva;
   font-size: 15px
-
 }
 
 .name1 {
   color: salmon;
   margin: 30px;
   padding: 0.5px;
+  text-indent: 20px;
   font-family: geneva;
   font-size: 22px;
 }
